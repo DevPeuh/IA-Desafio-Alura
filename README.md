@@ -8,4 +8,4 @@
 
 🗣️ Assistente Virtual Aizen.2: O assistente virtual, batizado de Aizen.2, é capaz de interagir com o usuário em uma variedade de tópicos, incluindo relacionamentos, saúde, reflexões, sintomas, ideias de passatempos, suporte emocional e indicações de livros e filmes.
 
-Este projeto é um excelente exemplo de como a Inteligência Artificial pode ser utilizada para criar assistentes virtuais personalizados e inteligentes. Parabéns pelo seu trabalho incrível! 🎉
+Este projeto é um excelente exemplo de como a Inteligência Artificial pode ser utilizada para criar assistentes virtuais personalizados e inteligentes.
